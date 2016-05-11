@@ -1,3 +1,3 @@
 Saga2d
 =======
-Light weight 2D game framework.
+Lightweight 2D game framework based on [ejoy2d](https://github.com/ejoy/ejoy2d).
